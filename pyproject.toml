@@ -1,9 +1,8 @@
 [tool.poetry]
 name = "finalproj"
 version = "0.1.0"
-description = "Okay, this is description"
+description = ""
 authors = ["RotterPotter <kivilele@gmail.com>"]
-license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
